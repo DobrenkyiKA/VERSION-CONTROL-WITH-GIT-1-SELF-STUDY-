@@ -1,2 +1,3 @@
 some textsome text
-some textsome text
+some text text
+new strings
