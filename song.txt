@@ -1,2 +1,4 @@
 first use of branches
 insert some changes in branch feature1
+
+some change in feature1 branch
