@@ -1,2 +1,4 @@
-first use of branches
-insert some changes in branch feature1
+
+
+
+some changes in branch master
