@@ -1,6 +1,4 @@
 some textsome text
 some text text
 new strings
-vcxvfd bv
-
-changes for revert
+vcxv
